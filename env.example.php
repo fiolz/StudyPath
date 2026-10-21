@@ -1,0 +1,4 @@
+<?php
+
+define('GROQ_API_KEY', 'YOUR_GROQ_API_KEY');
+define('GCP_PROJECT_ID', 'YOUR_GCP_PROJECT_ID');
